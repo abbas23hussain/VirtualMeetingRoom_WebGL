@@ -1,4 +1,0 @@
-.gz filter=lfs diff=lfs merge=lfs -text
-.data.gz filter=lfs diff=lfs merge=lfs -text
-VirtualMeetingRoom.data.gz filter=lfs diff=lfs merge=lfs -text
-VirtualMeetingRoom.data filter=lfs diff=lfs merge=lfs -text
